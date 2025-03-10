@@ -1,0 +1,177 @@
+body {
+    background-image: url(../images/backgroudweb2.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.image {
+    opacity: 80%;
+}
+
+/* Navbar */
+.navtext {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Cooper Black;
+    color: white;
+}
+
+
+.hedingtext {
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.buton {
+    margin-left: 50px;
+}
+
+
+
+/* heading */
+
+.content1 {
+    font-family: Algerian;
+    color: white;
+}
+
+.space {
+    margin-left: 10px;
+
+}
+
+.content2 {
+    font-family: Lucida Sans;
+    color: white;
+    letter-spacing: 0.8rem;
+    font-size: 20px;
+}
+
+.welcome {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+    text-align: center;
+}
+
+hr {
+    color: white;
+    border-width: 3px;
+}
+
+/* body */
+
+.content3 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content4 {
+    color: white;
+    font-family: serif;
+}
+
+.images{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.profile {
+    font-weight: bold;
+}
+
+.profilecontent {
+    color: white;
+}
+
+/* card slider */
+
+.slide {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+/* hr{
+    height: 50%;
+    border: 2px solid rgb(0, 204, 255);
+} */
+nav {
+    margin-bottom: 10px;
+}
+
+.style {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fonts {
+    font-size: 18px;
+}
+
+.btngap {
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.cards :hover {
+    transform: scale(1.02);
+}
+
+.buton {
+    color: white;
+}
+
+.headerfont {
+    font-family: Cooper Black;
+}
+
+.wrapper {
+    max-height: 280px;
+    border: 1px solid white;
+    display: flex;
+    overflow-x: auto;
+}
+
+.wrapper .item {
+    min-width: 300px;
+    height: 260px;
+    /* line-height: 110px; */
+    text-align: center;
+    margin-right: 5px;
+
+}
+.card-height{
+    height: 250px;
+}
+
+/* footer */
+
+.vertical {
+    margin-left: 50%;
+}
+
+.fontcolors {
+    font-weight: bold;
+}
+
+.fontcolor {
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,71 @@
+body{
+    background-image: url(../images/backgroudweb2.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.image{
+    opacity: 80%;
+}
+
+/* Navbar */
+.navtext{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Cooper Black;
+    color: white;
+}
+
+
+.hedingtext{
+    margin-top: 20px;
+    font-family: Impact;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.buton{
+    margin-left: 50px;
+}
+
+.content1{
+    font-family: Algerian;
+    
+    color: white;
+}
+
+/* body */
+
+.content1 {
+    color: white;
+    text-align: center;
+    /* font-family: Blackadder ITC; */
+    font-family: Tw Cen MT Condensed Extra Bold;
+}
+.images{
+    border-radius: 10px;
+}
+.image{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+/* footer */
+
+.vertical {
+    margin-left: 50%;
+}
+
+.fontcolors {
+    font-weight: bold;
+}
+
+.fontcolor {
+    color: white;
+    text-align: center;
+}

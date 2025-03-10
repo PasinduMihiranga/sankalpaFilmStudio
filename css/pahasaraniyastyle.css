@@ -1,0 +1,83 @@
+
+body{
+    background-image: url(../images/backgroudweb2.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+/* Navbar */
+.navtext{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Cooper Black;
+    color: white;
+}
+
+
+.hedingtext{
+    margin-top: 20px;
+    font-family: Impact;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.buton{
+    margin-left: 50px;
+}
+
+.content1{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* body */
+
+.content3{
+   color: white;
+   font-family: serif;
+}
+
+.images{
+    border-radius: 10px;
+}
+
+.commentbtn{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.profile{
+    font-weight: bold;
+}
+
+.profilecontent{
+    color: white;
+}
+
+.image{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/* footer */
+
+.vertical {
+    margin-left: 50%;
+}
+
+.fontcolors {
+    font-weight: bold;
+}
+
+.fontcolor {
+    color: white;
+    text-align: center;
+}
